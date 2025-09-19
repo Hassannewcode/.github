@@ -32,9 +32,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
 </p>
 
-**Want to play while you browse?**
-- [Play Google Snake Game](https://playsnake.org/) and imagine it eating your commit squares!
-- [Play Ping Pong Online](https://www.pingpongonline.com/)—each hit, a new contribution!
+
 
 ---
 
