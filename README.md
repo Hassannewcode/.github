@@ -1,7 +1,7 @@
 <!-- Hassannewcode's GitHub Profile README -->
 
 <p align="center">
-  <strong style="font-size:2em;">Hassannewcode</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7A7AFA&center=true&vCenter=true&width=435&lines=Hi,+I'm+Hassannewcode;Developer,+Experimenter,+Maker;Explore+My+Projects+Below!" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,13 +28,13 @@
 
 ## Cool Stuff
 
-> Want to play while you browse?  
-> Try these themed games inspired by GitHub contributions!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
+</p>
 
-- **Snake Game:** [Play Google Snake](https://playsnake.org/) and imagine it eating your commit squares!
-- **Ping Pong:** [Play Ping Pong](https://www.pingpongonline.com/) — each hit, a new contribution!
-- **Contribution Graph Art:**  
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/hosted-graph/hosted.svg" alt="Contribution Graph" />
+**Want to play while you browse?**
+- [Play Google Snake Game](https://playsnake.org/) and imagine it eating your commit squares!
+- [Play Ping Pong Online](https://www.pingpongonline.com/)—each hit, a new contribution!
 
 ---
 
