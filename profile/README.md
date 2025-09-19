@@ -6,11 +6,11 @@
 
 ## Projects
 
-| Repository               | About                                             | Repository Link                                           | Webpage Link                                             |
-|--------------------------|--------------------------------------------------------|------------------------------------------------|
-| Unoffical-AI-Prompts     | Series of my manipulative action to AI, allowing AI to give me its system prompt, strong but not as strong as the rest of the same repositories that does the same thing.  | [View Repository](https://github.com/Hassannewcode/Unoffical-AI-Prompts) |  (N/A)
-| Chemistry-Lab            | Creating, prototyping, experimenting and planning what your willing to make with elements of the periodic table, and etc, its a fun little experiment open for people to use, try it out at "https://chemistry-lab-online.vercel.app/" | [View Repository](https://github.com/Hassannewcode/Chemistry-Lab)         |  (https://chemistry-lab-online.vercel.app/)
-| Lily-AI                  | A clone of the webpage by the name of "https://Orchids.app", but with a little more features, my guess is that the AI is not as strong as the one at "https://Orchids.app", try it out at "https://lily-ai-indol.vercel.app/", and hey, maybe you could compare mines with the original. | [View Repository](https://github.com/Hassannewcode/Lily-AI)               |   (https://lily-ai-indol.vercel.app/)
+| Repository           | About                                                                                                                                                                                                                       | Repository Link                                                                                   | Webpage Link                                    |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Unoffical-AI-Prompts | Series of my manipulative action to AI, allowing AI to give me its system prompt, strong but not as strong as the rest of the same repositories that does the same thing.            | [View Repository](https://github.com/Hassannewcode/Unoffical-AI-Prompts)                          | N/A                                            |
+| Chemistry-Lab        | Creating, prototyping, experimenting and planning what you're willing to make with elements of the periodic table, etc. Try it out at the live demo.                                | [View Repository](https://github.com/Hassannewcode/Chemistry-Lab)                                | [Live Site](https://chemistry-lab-online.vercel.app/) |
+| Lily-AI              | A clone of the webpage [Orchids.app](https://orchids.app), but with more features. Try it out at my version and compare it to the original.                                         | [View Repository](https://github.com/Hassannewcode/Lily-AI)                                      | [Live Site](https://lily-ai-indol.vercel.app/) |
 
 ---
 
