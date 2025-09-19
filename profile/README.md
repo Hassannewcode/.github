@@ -10,7 +10,7 @@
 |--------------------------|--------------------------------------------------------|------------------------------------------------|
 | Unoffical-AI-Prompts     | Series of my manipulative context to AI, allowing AI to give me its system prompt, strong but not as strong as the rest of the same repositories that does the same thing.  | [View Repository](https://github.com/Hassannewcode/Unoffical-AI-Prompts) |
 | Chemistry-Lab            | Creating, prototyping, experimenting and planning what your willing to make with elements of the periodic table, and etc, its a fun little experiment open for people to use. | [View Repository](https://github.com/Hassannewcode/Chemistry-Lab)         |
-| Lily-AI                  | A clone of the webpage by the name of "Orchids.app", but with a little more features, my guess is that the AI is not as strong as the one at orchids.app | [View Repository](https://github.com/Hassannewcode/Lily-AI)               |
+| Lily-AI                  | A clone of the webpage by the name of "https://Orchids.app", but with a little more features, my guess is that the AI is not as strong as the one at "https://Orchids.app" | [View Repository](https://github.com/Hassannewcode/Lily-AI)               |
 
 ---
 
